@@ -1,0 +1,16 @@
+{
+  "name": "@lorypelli/notjs",
+  "version": "1.0.1-20230215",
+  "description": "function that gives false if true and true if false",
+  "main": "./output/index.js",
+  "types": "./output/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "LoryPelli",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}

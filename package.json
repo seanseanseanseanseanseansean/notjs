@@ -1,7 +1,7 @@
 {
   "name": "@lorypelli/notjs",
-  "version": "1.0.2-20230215",
-  "description": "function that gives false if true and true if false",
+  "version": "1.0.4-20230216",
+  "description": "Function that gives false if true and true if false",
   "main": "./output/index.js",
   "types": "./output/index.d.ts",
   "scripts": {
@@ -10,7 +10,8 @@
   },
   "author": "LoryPelli",
   "license": "GPL-3.0",
-  "keywords": ["notjs", "not", "js", "javascript", "ts", "typescript", "bool", "boolean", "true", "false"],
+  "keywords": ["notjs", "not", "js", "javascript", "ts", "typescript", "bool", "boolean", "true", "false", "github repository", "open-source", "github"],
+  "repository": {"url": "https://github.com/lorypelli/notjs"},
   "devDependencies": {
     "typescript": "^4.9.5"
   }

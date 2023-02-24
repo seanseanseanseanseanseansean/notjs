@@ -1,6 +1,6 @@
 {
   "name": "@lorypelli/notjs",
-  "version": "1.0.5-20230224",
+  "version": "1.0.5-20230224-patch",
   "description": "Function that gives false if true and true if false",
   "main": "./output/index.js",
   "types": "./output/index.d.ts",

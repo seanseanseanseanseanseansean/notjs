@@ -13,3 +13,5 @@
 - Added some keywords
 ### **1.0.5** (2023-02-24)
 - Added function description, param description and return description
+### **1.0.5** (2023-02-24) patch
+- Fixed param description
